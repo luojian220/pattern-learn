@@ -6,7 +6,7 @@ package com.luno.softone.pattern.learn.strategy;
  * @ClassName: OperationAdd
  * @Reason: TODO ADD REASON(可选)
  * @date: 2019年01月25日 14:09
- * @company:宝尊电商
+ * @company:
  * @since JDK 1.7
  */
 public class OperationAdd implements Strategy {

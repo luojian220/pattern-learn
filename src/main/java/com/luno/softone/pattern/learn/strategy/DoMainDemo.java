@@ -6,7 +6,7 @@ package com.luno.softone.pattern.learn.strategy;
  * @ClassName: 策略模式
  * @Description:
  * @date: 2019年01月25日 14:15
- * @company:宝尊电商
+ * @company:
  * @since JDK 1.7
  */
 public class DoMainDemo {

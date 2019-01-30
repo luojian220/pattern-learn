@@ -6,7 +6,7 @@ package com.luno.softone.pattern.learn.observer;
  * @ClassName: ObserverPatternDemo
  * @Reason: 观察者模式
  * @date: 2019年01月25日 11:24
- * @company:宝尊电商
+ * @company:
  * @since JDK 1.7
  */
 public class ObserverPatternDemo {

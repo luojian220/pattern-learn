@@ -6,7 +6,7 @@ package com.luno.softone.pattern.learn.adapter;
  * @ClassName: AudioPlayer
  * @Reason: TODO ADD REASON(可选)
  * @date: 2019年01月25日 16:24
- * @company:宝尊电商
+ * @company:
  * @since JDK 1.7
  */
 public class AudioPlayer implements MediaPlayer {
